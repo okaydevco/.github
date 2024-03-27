@@ -1,1 +1,1 @@
-![A purple background with a yellow and black banner saying "CREATIVE DEVELOPMENT COMMUNITY OKAYDEV.CO." Surrounding the banner are playful yellow smiley face stickers and a pin with "I'M OKAY" in black.](okay-banner.png)
+![A purple background with a yellow and black banner saying "CREATIVE DEVELOPMENT COMMUNITY OKAYDEV.CO." Surrounding the banner are playful yellow smiley face stickers and a pin with "I'M OKAY" in black.](/okay-banner.png)
