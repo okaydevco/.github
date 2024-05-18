@@ -10,3 +10,4 @@ We are now opening the community up to the public. The full website is in active
 - [Discord](https://discord.gg/uvJcEWrek8)
 - [X (Twitter)](https://x.com/okaydevs)
 - [Instagram](https://www.instagram.com/okaydevs)
+- [LinkedIn](https://www.linkedin.com/company/okay-dev)
