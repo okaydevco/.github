@@ -8,6 +8,7 @@ We are now opening the community up to the public. The full website is in active
 
 ### Social
 - [Discord](https://discord.gg/uvJcEWrek8)
+- [Bluesky](https://bsky.app/profile/okaydev.bsky.social)
 - [X (Twitter)](https://x.com/okaydevs)
 - [Instagram](https://www.instagram.com/okaydevs)
 - [LinkedIn](https://www.linkedin.com/company/okay-dev)
