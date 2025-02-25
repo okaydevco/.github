@@ -2,9 +2,9 @@
 
 # A creative development community.
 
-**Okay Dev originated in 2018 as a private Slack workspace providing a safe place for industry leading creative developers to interact with one another.**
+**OKAY DEV® originated in 2018 as a private Slack workspace providing a safe place for industry leading creative developers to interact with one another.**
 
-We are now opening the community up to the public. The full website is in active development and will be released in phases, each adding new features and services. Okay Dev strives to be the go to place to find talented creative developers and for us to share our work, learn, communicate, and collaborate with one another. Welcome to Okay Dev!
+We are now opening the community up to the public. The full website is in active development and will be released in phases, each adding new features and services. We strive to be the go to place to find talented creative developers and for us to share our work, learn, communicate, and collaborate with one another.
 
 ### Social
 - [Discord](https://discord.gg/uvJcEWrek8)
