@@ -12,4 +12,3 @@ We strive to be the go to place to find talented creative developers and for us 
 - [X (Twitter)](https://x.com/okaydevs)
 - [Instagram](https://www.instagram.com/okaydevs)
 - [LinkedIn](https://www.linkedin.com/company/okay-dev)
-- [Discord](https://discord.gg/uvJcEWrek8)
